@@ -1,3 +1,2 @@
-# Python-for-Everybody
-Programming Assignments
-## Programming for Everybody(Getting Started with Python)
+# Programming Assignments of Python for Everybody on Coursera 
+### Programming for Everybody(Getting Started with Python)
